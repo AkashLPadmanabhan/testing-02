@@ -1,2 +1,3 @@
 Username: "Brahmos"
 Password: ********
+TYPE: Assault Weapons Grade.
